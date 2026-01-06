@@ -2,6 +2,10 @@
 
 macOS menu bar timer with focus tracking.
 
+## Screenshots
+
+![Screenshots](screenshots/combined.png)
+
 ## Build
 
 ```bash
